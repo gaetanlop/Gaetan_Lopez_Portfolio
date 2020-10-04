@@ -27,7 +27,7 @@ I created a tool that classifies pediatric chest X-rays to detect pneumonia. One
 *   Built a client facing API using Flask.
 *   Deployed the model on Heroku.
 
-![](/image/pneumonia_demo.PNG)
+![](/image/pneumonia_detector.png)
 
 # [Hotel Booking Cancelation](https://github.com/gaetanlop/Hotel_Booking_Cancelation)
 * **Final Product Hosted On Heroku:** https://house-price-prediction-paris.herokuapp.com/
