@@ -76,3 +76,5 @@ I created a tool that classifies images of blood cells to detect Malaria. The be
 *   Deployed the model on Heroku.
 
 [![](/image/malaria_detector.png)](https://malaria-detectorv1.herokuapp.com/)
+
+[Link to my github profile](https://github.com/gaetanlop)
