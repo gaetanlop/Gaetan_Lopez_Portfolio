@@ -15,7 +15,7 @@ I created a web app that estimates the Price of an apartment In Paris in 2020. S
 
 [![](/image/Paris_apartment_demo.PNG)](https://house-price-prediction-paris.herokuapp.com/)
 
-# [Pneumonia-Detection](https://github.com/gaetanlop/Pneumonia-Detection)
+## [Pneumonia-Detection](https://github.com/gaetanlop/Pneumonia-Detection)
 **Final Product Hosted On Heroku:** https://pneumonia-detection-appli.herokuapp.com/
 
 I created a tool that classifies pediatric chest X-rays to detect pneumonia. One way to depict Penumonia is by using chest X-ray images. They are obtain easily but the problem is in radiologic interpretation of images which are not always available. Therefore, such a tool could be use to predict fast and automatically whether or not someone have pneumonia. 
@@ -31,7 +31,7 @@ I created a tool that classifies pediatric chest X-rays to detect pneumonia. One
 
 [![](/image/pneumonia_detector.png)](https://pneumonia-detection-appli.herokuapp.com/)
 
-# [Hotel Booking Cancelation](https://github.com/gaetanlop/Hotel_Booking_Cancelation)
+## [Hotel Booking Cancelation](https://github.com/gaetanlop/Hotel_Booking_Cancelation)
 * **Final Product Hosted On Heroku:** https://house-price-prediction-paris.herokuapp.com/
 
 In this project, I created a web app that predict whether or not a Booking will be cancelled. Such a tool can help hotels in their Overbooking Strategy. Indeed, this tool can be used to predict with a high accuracy the number of rooms that will be cancelled and therefore put the room for rent again. Such a strategy can help to maximize the total capacity and increase the overall revenue of the hotel.
@@ -45,7 +45,7 @@ In this project, I created a web app that predict whether or not a Booking will 
 * Stacked three different models using Voting Classifier of Scikit Learn.
 * Built a client facing API using flask. Deployment on Heroku.
 
-# [Clothing_Classification](https://github.com/gaetanlop/Clothing_Classification)
+## [Clothing_Classification](https://github.com/gaetanlop/Clothing_Classification)
 **Final Product Hosted On Heroku:** https://clothing-classification.herokuapp.com/
 
 I created a tool that classify images of clothes into their corresponding categories (t-shirts,shirts,jeans...). Such a tool can be used by e-commerce websites to automatically create the different keywords for each of their articles. For example, for each new items it will tell directly in which category the new item belongs. 
@@ -62,7 +62,7 @@ I created a tool that classify images of clothes into their corresponding catego
 
 [![](/image/Data_clothing.png)](https://clothing-classification.herokuapp.com/)
 
-# [Malaria-Detection](https://github.com/gaetanlop/Malaria_Detection)
+## [Malaria-Detection](https://github.com/gaetanlop/Malaria_Detection)
 **Final Product Hosted On Heroku:** https://malaria-detectorv1.herokuapp.com/
 
 I created a tool that classifies images of blood cells to detect Malaria. The best way to depict Penumonia is by performing a microscopic examination of blood cells. The problem is in the interpretation of these microscopic images.They are not always experts available to interpret them. Therefore, such a tool could be use to predict fast and automatically whether or not someone has Malaria. 
