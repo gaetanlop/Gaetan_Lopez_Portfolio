@@ -11,7 +11,7 @@ I created a web app that estimates the Price of an apartment In Paris in 2020. S
 *   Used HTML, CSS, JS for the UI.
 *   Deployed the model on AWS EC2 instance and on Heroku.
 
-![alt_text](/image/Paris%20apartment%20demo.PNG)
+![je fais un test](/image/para.png)
 
 # [Pneumonia-Detection](https://github.com/gaetanlop/Pneumonia-Detection)
 **Final Product Hosted On Heroku:** https://pneumonia-detection-appli.herokuapp.com/
