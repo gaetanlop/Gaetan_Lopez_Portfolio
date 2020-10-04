@@ -1,5 +1,4 @@
-# Gaetan_Portfolio
-My portfolio website
+
 
 # Paris Real Estate Price Prediction Web App: Project Overview
 **Final Product Hosted On Heroku:** https://house-price-prediction-paris.herokuapp.com/
