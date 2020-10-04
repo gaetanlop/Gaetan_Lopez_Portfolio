@@ -61,7 +61,7 @@ I created a web app that classifies images of clothes into their corresponding c
 ## [Malaria-Detection](https://github.com/gaetanlop/Malaria_Detection)
 **Final Product Hosted On Heroku:** [https://malaria-detectorv1.herokuapp.com/](https://malaria-detectorv1.herokuapp.com/)
 
-I created a tool that classifies images of blood cells to detect Malaria. The best way to depict Malaria is by performing a microscopic examination of blood cells. The problem is in the interpretation of these microscopic images.They are not always experts available to interpret them in developing countries. Therefore, such a tool could be use to predict fast and automatically whether or not someone has Malaria. 
+I created a tool that classifies images of blood cells to detect Malaria. The best way to depict Malaria is by performing a microscopic examination of blood cells. The problem is in the interpretation of these microscopic images.They are not always experts available to interpret them in developing countries. Therefore, such a tool could be used to predict fast and automatically whether or not someone has Malaria. 
 
 *   I created a tool that classifies images of blood cells to detect Malaria.
 *   Performed Data preprocessing and Augmentation.
