@@ -1,4 +1,6 @@
-# [Paris Real Estate Price Prediction](https://github.com/gaetanlop/ds_project_house)
+[Link to my github profile](https://github.com/gaetanlop)
+
+## [Paris Real Estate Price Prediction](https://github.com/gaetanlop/ds_project_house)
 **Final Product Hosted On Heroku:** https://house-price-prediction-paris.herokuapp.com/
 
 I created a web app that estimates the Price of an apartment In Paris in 2020. Such a tool can be used to help people finding the best price to sold or buy an apartment. It also can be used by real estate companies to give an estimation of the price of an apartment of one of their clients without sending an expert to check the apartment.
