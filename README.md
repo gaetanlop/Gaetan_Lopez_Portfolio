@@ -12,6 +12,7 @@ I created a web app that estimates the Price of an apartment In Paris in 2020. S
 *   Built a client facing API using flask.
 *   Used HTML, CSS, JS for the UI.
 *   Deployed the model on AWS EC2 instance and on Heroku.
+![alt text](https://github.com/gaetanlop/Gaetan_Portfolio/blob/main/Paris%20apartment%20demo.PNG)
 
 # [Pneumonia-Detection](https://github.com/gaetanlop/Pneumonia-Detection)
 **Final Product Hosted On Heroku:** https://pneumonia-detection-appli.herokuapp.com/
@@ -69,3 +70,4 @@ I created a tool that classifies images of blood cells to detect Malaria. The be
 *   Fine-tuned the model.
 *   Built a client facing API using Flask.
 *   Deployed the model on Heroku.
+![alt text](https://github.com/gaetanlop/Gaetan_Portfolio/blob/main/Malaria%20demo.PNG)
