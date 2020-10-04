@@ -57,7 +57,7 @@ I created a tool that classify images of clothes into their corresponding catego
 *   Built a client facing API using Voila.
 *   Deployed the model on Heroku.
 
-![](/image/Data%20clothing.png)
+![](/image/Malaria%20demo.PNG)
 
 # [Malaria-Detection](https://github.com/gaetanlop/Malaria_Detection)
 **Final Product Hosted On Heroku:** https://malaria-detectorv1.herokuapp.com/
@@ -72,4 +72,4 @@ I created a tool that classifies images of blood cells to detect Malaria. The be
 *   Built a client facing API using Flask.
 *   Deployed the model on Heroku.
 
-![](/image/Malaria%20demo.PNG)
+![](https://github.com/gaetanlop/Gaetan_Portfolio/blob/main/image/Malaria%20demo.PNG)
