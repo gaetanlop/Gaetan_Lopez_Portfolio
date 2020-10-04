@@ -58,7 +58,7 @@ I created a tool that classify images of clothes into their corresponding catego
 *   Built a client facing API using Voila.
 *   Deployed the model on Heroku.
 
-![](/image/Data_clothing.PNG)
+![](/image/Data_clothing.png)
 
 # [Malaria-Detection](https://github.com/gaetanlop/Malaria_Detection)
 **Final Product Hosted On Heroku:** https://malaria-detectorv1.herokuapp.com/
