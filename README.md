@@ -11,7 +11,7 @@ I created a web app that estimates the Price of an apartment In Paris in 2020. S
 *   Used HTML, CSS, JS for the UI.
 *   Deployed the model on AWS EC2 instance and on Heroku.
 
-![je fais un test](/image/para.png)
+![](/image/Paris_apartment_demo.PNG)
 
 # [Pneumonia-Detection](https://github.com/gaetanlop/Pneumonia-Detection)
 **Final Product Hosted On Heroku:** https://pneumonia-detection-appli.herokuapp.com/
@@ -27,7 +27,8 @@ I created a tool that classifies pediatric chest X-rays to detect pneumonia. One
 *   Built a client facing API using Flask.
 *   Deployed the model on Heroku.
 
-![](/image/pneumonia%20demo.PNG)
+![](/image/pneumonia_demo.PNG)
+
 # [Hotel Booking Cancelation](https://github.com/gaetanlop/Hotel_Booking_Cancelation)
 * **Final Product Hosted On Heroku:** https://house-price-prediction-paris.herokuapp.com/
 
@@ -57,7 +58,7 @@ I created a tool that classify images of clothes into their corresponding catego
 *   Built a client facing API using Voila.
 *   Deployed the model on Heroku.
 
-![](/image/Malaria%20demo.PNG)
+![](/image/Data_clothing.PNG)
 
 # [Malaria-Detection](https://github.com/gaetanlop/Malaria_Detection)
 **Final Product Hosted On Heroku:** https://malaria-detectorv1.herokuapp.com/
@@ -72,4 +73,4 @@ I created a tool that classifies images of blood cells to detect Malaria. The be
 *   Built a client facing API using Flask.
 *   Deployed the model on Heroku.
 
-![](https://github.com/gaetanlop/Gaetan_Portfolio/blob/main/image/Malaria%20demo.PNG)
+![](/image/Malaria_demo.PNG)
