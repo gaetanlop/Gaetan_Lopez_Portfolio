@@ -73,4 +73,4 @@ I created a tool that classifies images of blood cells to detect Malaria. The be
 *   Built a client facing API using Flask.
 *   Deployed the model on Heroku.
 
-![](/image/malaria_detector.PNG)
+![](/image/malaria_detector.png)
