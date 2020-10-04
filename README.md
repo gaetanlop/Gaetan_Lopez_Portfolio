@@ -1,5 +1,3 @@
-
-
 # [Paris Real Estate Price Prediction](https://github.com/gaetanlop/ds_project_house)
 **Final Product Hosted On Heroku:** https://house-price-prediction-paris.herokuapp.com/
 
@@ -27,7 +25,7 @@ I created a tool that classifies pediatric chest X-rays to detect pneumonia. One
 *   Fine-tuned the model.
 *   Built a client facing API using Flask.
 *   Deployed the model on Heroku.
-
+![alt text](https://github.com/gaetanlop/Gaetan_Portfolio/blob/main/pneumonia%20demo.PNG)
 # [Hotel Booking Cancelation](https://github.com/gaetanlop/Hotel_Booking_Cancelation)
 * **Final Product Hosted On Heroku:** https://house-price-prediction-paris.herokuapp.com/
 
@@ -56,7 +54,7 @@ I created a tool that classify images of clothes into their corresponding catego
 *   Fine-tuned the model
 *   Built a client facing API using Voila.
 *   Deployed the model on Heroku.
-
+![alt text](https://github.com/gaetanlop/Gaetan_Portfolio/blob/main/Data%20clothing.png)
 
 # [Malaria-Detection](https://github.com/gaetanlop/Malaria_Detection)
 **Final Product Hosted On Heroku:** https://malaria-detectorv1.herokuapp.com/
