@@ -42,6 +42,8 @@ In this project, I created a tool that predicts whether or not a Booking will be
 * Optimized Logistic, Random Forest Classifier and XGBoost Classifier using GridSearchCV to reach the best model.
 * Stacked three different models using Voting Classifier of Scikit Learn.
 
+[![](/image/hotel.png)](https://github.com/gaetanlop/Hotel_Booking_Cancelation)
+
 ## [Clothing_Classification](https://github.com/gaetanlop/Clothing_Classification)
 **Final Product Hosted On Heroku:** [https://clothing-classification.herokuapp.com/](https://clothing-classification.herokuapp.com/)
 
