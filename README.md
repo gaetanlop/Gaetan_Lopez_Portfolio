@@ -44,6 +44,18 @@ In this project, I created a tool that predicts whether or not a Booking will be
 
 [![](/image/hotel.png)](https://github.com/gaetanlop/Hotel_Booking_Cancelation)
 
+## [Tripadvisor_reviews_rating_NLP](https://github.com/gaetanlop/Tripadvisor_reviews_rating_NLP)
+
+I created a tool that classifies Tripadvisors reviews into three categories: negative, neutral, positive.
+
+*   Created a tool that classifies Tripadvisors reviews into three categories (accuracy: 85%).
+*   Exploratory Data analysis using Wordcloud.
+*   Text preprocessing: removed punctuations, stemming, word embedding ...
+*   Created a simple LSTM model.
+*   Testing model for inference on one sentence.
+
+[![](/image/Data_clothing.png)](https://github.com/gaetanlop/Tripadvisor_reviews_rating_NLP)
+
 ## [Clothing_Classification](https://github.com/gaetanlop/Clothing_Classification)
 **Final Product Hosted On Heroku:** [https://clothing-classification.herokuapp.com/](https://clothing-classification.herokuapp.com/)
 
