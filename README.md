@@ -54,7 +54,7 @@ I created a tool that classifies Tripadvisors reviews into three categories: neg
 *   Created a simple LSTM model.
 *   Testing model for inference on one sentence.
 
-[![](/image/wordcloud.png)](https://github.com/gaetanlop/Tripadvisor_reviews_rating_NLP)
+[![](/image/wordcloud.PNG)](https://github.com/gaetanlop/Tripadvisor_reviews_rating_NLP)
 
 ## [Clothing_Classification](https://github.com/gaetanlop/Clothing_Classification)
 **Final Product Hosted On Heroku:** [https://clothing-classification.herokuapp.com/](https://clothing-classification.herokuapp.com/)
