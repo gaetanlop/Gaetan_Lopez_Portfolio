@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science portfolio on Gaetan Lopez</title>
+    <link>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/</link>
+    <description>Recent content in Data Science portfolio on Gaetan Lopez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2020 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tweets analysis: How do people feel during lockdown?</title>
+      <link>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-7/</link>
+      <pubDate>Sat, 10 Oct 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-7/</guid>
+      <description>This project is the first step of a bigger one. I want to analyze the evolution of people&amp;rsquo;s feeling about the pandemic between two periods: the beginning of the sanitary crisis and now. For this purpose, I practiced social listening on Twitter all around the world.
+In this article, I analyzed tweets between the end of February and March 2020.
+To summarize, three things stricked me the most:
+ The most surprising thing is that there are more positive tweets than negative ones.</description>
+    </item>
+    
+    <item>
+      <title>Living in Paris? Discover how much cost your property</title>
+      <link>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 30 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-1/</guid>
+      <description>Do you need a quick and easy estimation of the cost of your apartment?
+I created a web app for this purpose. It estimates the price of an apartment in Paris in 2020. It can be used to help people finding the best price to sold or buy an apartment. It also can be used by real estate companies to give an estimation of the price of an apartment of one of their client without sending an expert to check the apartment.</description>
+    </item>
+    
+    <item>
+      <title>Detect Malaria with Deep Learning</title>
+      <link>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-4/</link>
+      <pubDate>Tue, 22 Sep 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-4/</guid>
+      <description>Before I started my Data Science journey, I heard about tools based on Deep Learning that could make medical diagnosis even better than experts. After learning the basis of computer vision, I tried to replicate these tools using Pytorch.
+Here is what I have done:
+The best way to depict Malaria is by performing a microscopic examination of blood cells. The problem is in the interpretation of these microscopic images.There are not always experts available to interpret them in developing countries.</description>
+    </item>
+    
+    <item>
+      <title>Manage your Hotel overbooking strategy with Machine Learning</title>
+      <link>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-5/</link>
+      <pubDate>Thu, 03 Sep 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-5/</guid>
+      <description>Nowadays, hotels are practicing overbooking strategies to optimize their benefits. But what if it results in finally having more clients than rooms in the hotel? That&amp;rsquo;s why it is crucial to predict customer behavior: will they come or not?
+To resolve this problem, I created a tool that predicts whether or not a Booking will be cancelled. This tool can be used to predict with a high accuracy the number of rooms that will be cancelled and therefore put the room for rent again.</description>
+    </item>
+    
+    <item>
+      <title>Classifying Tripadvisor hotel reviews with Natural Language Processing</title>
+      <link>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-3/</link>
+      <pubDate>Thu, 20 Aug 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-3/</guid>
+      <description>In this project, I wanted to experiment what I learned about Natural Language Processing and in particular how a recurrent neural net works. In this purpose, I created a tool that classifies Tripadvisors reviews into three categories: negative, neutral, positive (accuracy: 85%).
+Project Overview:
+ Transformed the dependent variable. Exploratory Data analysis. Text preprocessing: removed punctuations, stemming, word embedding &amp;hellip; Created a simple LSTM model. Testing model for inference on one sentence.</description>
+    </item>
+    
+    <item>
+      <title>Automatize the classification of e-shop products</title>
+      <link>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-6/</link>
+      <pubDate>Mon, 03 Aug 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-6/</guid>
+      <description>What if it was possible to classify e-shop products fast and efficiently only using their pictures?
+With the help of Computer Vision it is possible to do so, and that&amp;rsquo;s what I tried to do in this project(at a simple scale). I collected images of clothes on google images in order to create a tool that classifies clothes into their corresponding categories(t-shirts,shirts,jeans&amp;hellip;). It could be used to automatically put each of the new items of an e-commerce website directly into their corresponding categories.</description>
+    </item>
+    
+    <item>
+      <title>Detect Pneumonia with Deep Learning</title>
+      <link>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-2/</link>
+      <pubDate>Thu, 30 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/post/project-2/</guid>
+      <description>Before I started my Data Science journey, I heard about tools based on Deep Learning that could make medical diagnosis even better than experts. After learning the basis of computer vision, I tried to replicate these tools using fast.ai.
+Here is what I have done:
+One way to depict pneumonia is by using chest X-ray images. They are obtain easily but the problem is in radiologic interpretation of images which are not always available in developing countries.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/contact/</guid>
+      <description>         GitHub: https://github.com/gaetanlop   LinkedIn: https://www.linkedin.com/in/gaetan-lopez/   Mail: gaetanloplat@gmail.com   Website: https://gaetanlop.github.io/Gaetan_Lopez_Portfolio/    </description>
+    </item>
+    
+  </channel>
+</rss>
